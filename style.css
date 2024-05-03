@@ -50,3 +50,8 @@ justify
     display: flex;
     justify-content: center;
 }
+
+.Titulo_site{
+    padding: 50px;
+    text-align: center;
+}

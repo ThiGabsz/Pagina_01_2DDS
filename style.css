@@ -34,13 +34,14 @@
     width: 50%;
     font: 30px;
     }
-    .sociais{
+    .socia
+    ￼ is{
     display: flex;
     justify-content: flex-end;
     width: 25%;
     padding-right: 30px;
     }
-    .banner1{
+    .banner{
     display: flex;
     justify-content: center;
     }
@@ -91,7 +92,7 @@
     text-align: center;
     }
     
-    .logo_rodape{
+    .Logo_rodape{
     height: 80px;
     padding: 12px 0;
     

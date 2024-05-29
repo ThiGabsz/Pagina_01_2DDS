@@ -29,18 +29,18 @@
     align-items: center;
     }
     .titulo_site{
-    padding: 70px;
+    padding: 80px;
     text-align: center;
     width: 50%;
     font: 50px;
     }
-    .socia{
+    .sociais{
     display: flex;
     justify-content: flex-end;
     width: 25%;
     padding-right: 45px;
     }
-    .banner{
+    .banner1{
     display: flex;
     justify-content: center;
     }
@@ -87,7 +87,7 @@
     
     }
     .escola-titulo{
-    padding: 65px;
+    padding: 90px;
     text-align: center;
     }
     

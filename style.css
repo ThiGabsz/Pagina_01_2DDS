@@ -12,11 +12,11 @@
     background-color: #d4d8de;
     color: white;
     width: 100%;
-    padding: 20px;
+    padding: 30px;
     
     }
     .cabecalho-itens{
-    max-width: 1980px;
+    max-width: 2050px;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -29,17 +29,17 @@
     align-items: center;
     }
     .titulo_site{
-    padding: 50px;
+    padding: 70px;
     text-align: center;
     width: 50%;
-    font: 30px;
+    font: 50px;
     }
     .socia
     ￼ is{
     display: flex;
     justify-content: flex-end;
     width: 25%;
-    padding-right: 30px;
+    padding-right: 45px;
     }
     .banner{
     display: flex;
@@ -47,7 +47,7 @@
     }
     
     .estudante_titulo{
-    padding: 50px;
+    padding: 75px;
     text-align: center;
     }
     
@@ -55,22 +55,22 @@
     text-align: center;
     }
     .estudante-imagem{
-    width: 120px;
+    width: 135px;
     }
     
     .estudante-icone{
-    width: 38px;
+    width: 44px;
     padding: 4px 8px;
     }
     
     .estudante{
     background-image: background-color(#FFF6E9);
-    padding: 24px 0;
+    padding: 32px 0;
     }
     
     .estudante.div{
     text-align: center;
-    padding: 24px 0;
+    padding: 28px 0;
     }
     .estudantes_todos{
     display: flex;
@@ -82,19 +82,19 @@
     color: white;
     display: flex;
     justify-content:center;
-    padding: 24px 0;
+    padding: 28px 0;
     text-align:center;
     display:block;
     
     }
     .escola-titulo{
-    padding: 50px;
+    padding: 65px;
     text-align: center;
     }
     
     .Logo_rodape{
-    height: 80px;
-    padding: 12px 0;
+    height: 100px;
+    padding: 18px 0;
     
     
     }

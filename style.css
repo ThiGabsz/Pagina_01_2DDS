@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
     box-sizing: border-box;
     }
     
@@ -9,8 +9,8 @@
     }
     
     header{
-    background-color: #d4d8de;
-    color: white;
+    background-color: #000000;
+    color: rgb(0, 0, 0);
     width: 100%;
     padding: 30px;
     
@@ -34,8 +34,7 @@
     width: 50%;
     font: 50px;
     }
-    .socia
-    ￼ is{
+    .socia{
     display: flex;
     justify-content: flex-end;
     width: 25%;
@@ -64,7 +63,7 @@
     }
     
     .estudante{
-    background-image: background-color(#FFF6E9);
+    background-image: background-color(#000000);
     padding: 32px 0;
     }
     
@@ -79,7 +78,7 @@
     
     .escola{
     background-image: linear-gradient(#40A2E3,#7FC2EF);
-    color: white;
+    color: rgb(253, 0, 0);
     display: flex;
     justify-content:center;
     padding: 28px 0;

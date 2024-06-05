@@ -29,10 +29,10 @@
     align-items: center;
     }
     .titulo_site{
-    padding: 100px;
+    padding: 500px;
     text-align: center;
     width: 50%;
-    font: 50px;
+    font: 100px;
     }
     .sociais{
     display: flex;
